@@ -11,3 +11,5 @@ css/*.map
 css/*.css
 !bootstrap.min.css
 !style.css
+
+.vscode/
